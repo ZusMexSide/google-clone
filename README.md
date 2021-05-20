@@ -1,2 +1,2 @@
 # google-clone
-## Clone from google page.
+## Google page cloned.
